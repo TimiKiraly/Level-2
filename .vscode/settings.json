@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "d:/Timi/Projects/Robocorp/Level 2/OrderRobots/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
